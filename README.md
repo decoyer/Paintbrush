@@ -2,7 +2,7 @@
 ### *Java* 코드로 구현한 그림판 안드로이드 앱
 
 ## 기능 설명
-![app](https://user-images.githubusercontent.com/87348583/131632063-f93c8464-7295-4a07-a2bd-187665beda51.png)
+![app](https://user-images.githubusercontent.com/87348583/131660382-31bd7bec-d3bf-4906-9716-c30dd5f1e53e.png)
 
 - 새로 만들기 기능
 - 배경 이미지 설정
