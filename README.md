@@ -2,6 +2,9 @@
 - *Java* 코드로 구현한 **그림판** 안드로이드 앱
 
 ### 기능 설명
+![app](https://user-images.githubusercontent.com/87348583/131631839-7f8edcc7-e258-43ab-a0e8-e2fe2280fefe.png)
+
+
 - 새로 만들기
 - 배경 이미지 설정
 - 펜 색깔 변경
